@@ -3,8 +3,11 @@
 ## Day 1
 Status: Finished
 
-Link: https://remrkabledev.github.io/Tribute-Page-5DCC/
+Link: 
 
+1. Live site: https://remrkabledev.github.io/Tribute-Page-5DCC/
+2. Code Base: https://github.com/reMRKableDev/Tribute-Page-5DCC
+   
 Lesson Learned: 
 
 1. Flexbox is best for creating easy to use layouts.
