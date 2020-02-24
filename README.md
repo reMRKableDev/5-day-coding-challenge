@@ -14,8 +14,9 @@ The challenge is to create and submit one html/css project for the next 5 days. 
 The idea to is motivate a habit of creating small projects that can contribute to a developer's portfolio.  By the end of this, you would have 5 responsive websites under your belt that you can show off to friends, family, employers, etc
 
 ## Time / Deadline
-Start Date: 24 February 2020
-End Date: 28 February 2020
+*Start Date*: 24 February 2020
+
+*End Date*: 28 February 2020
 
 ## How To Start
 1. Fork this repo and start the different challenges listed below. 
