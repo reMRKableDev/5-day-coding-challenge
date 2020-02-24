@@ -1,6 +1,6 @@
 # 5 Day Coding Challenge
 
-Challenges inspired by the article : https://medium.com/@avicndugu/projects-to-practice-html-css-skills-for-beginners-8b9ed67a7dd1
+Challenges inspired by this [Article](https://medium.com/@avicndugu/projects-to-practice-html-css-skills-for-beginners-8b9ed67a7dd1)
 
 For this challenge we will refer to those mentioned in the article above. 
 - Each challenge is linked to a FreeCodeCamp resource which gives detailed user stories (requirements) to be implemented. 
@@ -24,7 +24,7 @@ End Date: 28 February 2020
 
 ## Challenges
 ### Day 1
-(**A Tribute Page**)[https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page]
+[**A Tribute Page**](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
 
 Example : https://codepen.io/freeCodeCamp/full/zNqgVx
 
@@ -34,7 +34,7 @@ Example : https://codepen.io/freeCodeCamp/full/zNqgVx
 4. Use CSS to make the project look better. You can use CSS frameworks such Bootstrap, Materialize to help. 
 
 ### Day 2
-(**Survey Form**)[https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form]
+[**Survey Form**](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
 
 Example: https://codepen.io/freeCodeCamp/full/VPaoNP
 
@@ -43,7 +43,7 @@ Example: https://codepen.io/freeCodeCamp/full/VPaoNP
 4. Use CSS to make the project look better. You can use CSS frameworks such Bootstrap, Materialize to help. 
 
 ### Day 3
-(**Product Landing Page**)[https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page]
+[**Product Landing Page**](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
 
 Example: https://codepen.io/freeCodeCamp/full/RKRbwL
 
@@ -54,7 +54,7 @@ Example: https://codepen.io/freeCodeCamp/full/RKRbwL
 5. Use CSS to make the project look better. You can use CSS frameworks such Bootstrap, Materialize to help. 
 
 ### Day 4
-(**Build a Technical Documentation Page**)[https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page]
+[**Build a Technical Documentation Page**](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page)
 
 Example: https://codepen.io/freeCodeCamp/full/NdrKKL
 
@@ -64,7 +64,7 @@ Example: https://codepen.io/freeCodeCamp/full/NdrKKL
 4. Use CSS to make the project look better. You can use CSS frameworks such Bootstrap, Materialize to help. 
 
 ### Day 5
-(**Build Simple Personal Portfolio**)[https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage]
+[**Build Simple Personal Portfolio**](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage)
 
 Example: https://codepen.io/freeCodeCamp/full/zNBOYG
 
