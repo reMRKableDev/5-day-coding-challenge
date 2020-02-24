@@ -21,7 +21,7 @@ The idea to is motivate a habit of creating small projects that can contribute t
 ## How To Start
 1. Fork this repo and start the different challenges listed below. 
 2. You can choose to use Codepen or make seperate repos for each project. 
-3. Make sure you log your process everyday. You can create a log.md file and update with progress & links. 
+3. Make sure you log your process everyday. Use the [log.md](https://github.com/reMRKableDev/5-day-coding-challenge/blob/master/log.md) file and update with progress & links. 
 
 ## Challenges
 ### Day 1
