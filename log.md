@@ -26,7 +26,7 @@ Link:
 
 Lesson(s) Learned: 
 
-1. <option> tag cannot be styled using CSS. Or at least there is very limited styling that can be done.
+1. option tag cannot be styled using CSS. Or at least there is very limited styling that can be done.
 2. SVG backgrounds are absolutely great to use for background images.
 3. Simple transitions using @keyframes will always give some life to a project.
 
