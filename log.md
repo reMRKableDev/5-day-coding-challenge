@@ -1,9 +1,9 @@
 # Daily Log
 
 ## Day 1
-Status:
+Status: Ongoing
 
-Link:
+Link:[Github Repo](https://github.com/LloydC/muhammad-ali-tribute)
 
 Lesson Learned: 
 
