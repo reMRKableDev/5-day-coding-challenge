@@ -31,11 +31,19 @@ Lesson(s) Learned:
 3. Simple transitions using @keyframes will always give some life to a project.
 
 ## Day 3
-Status:
+Status: Finished
 
 Link:
 
+1. Live Site: https://remrkabledev.github.io/Product-Landing-Page-5DCC/
+2. Code Base: https://github.com/reMRKableDev/Product-Landing-Page-5DCC
+
 Lesson Learned: 
+
+1. Box Shadow selector can be used to combine the inset and offset of an element.
+2. CSS variables eliviate the need of having to write repeating code.
+3. Cool floating effects can be created if an image is placed in the forefront of two sections that share the height of 100vh.
+
 ## Day 4
 Status:
 
