@@ -38,7 +38,7 @@ Link:
 1. Live Site: https://remrkabledev.github.io/Product-Landing-Page-5DCC/
 2. Code Base: https://github.com/reMRKableDev/Product-Landing-Page-5DCC
 
-Lesson Learned: 
+Lesson(s) Learned: 
 
 1. Box Shadow selector can be used to combine the inset and offset of an element.
 2. CSS variables eliviate the need of having to write repeating code.
@@ -52,7 +52,7 @@ Link:
 1. Live Site: https://remrkabledev.github.io/Technical-Documentation-5DCC/
 2. Code Base: https://github.com/reMRKableDev/Technical-Documentation-5DCC
 
-Lesson Learned: 
+Lesson(s) Learned: 
 
 1. The 'pre' tag can be used when displaying text with unusual formatting, or some sort of computer code.
 2. The 'code' tag is a phrase tag. It defines a piece of computer code.
