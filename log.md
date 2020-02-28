@@ -54,8 +54,8 @@ Link:
 
 Lesson Learned: 
 
-1. The <pre> tag can be used when displaying text with unusual formatting, or some sort of computer code.
-2. The <code> tag is a phrase tag. It defines a piece of computer code.
+1. The 'pre' tag can be used when displaying text with unusual formatting, or some sort of computer code.
+2. The 'code' tag is a phrase tag. It defines a piece of computer code.
 3. With translate3d(), you can define a translation on the X, Y and Z axes, all in one function.
 
 ## Day 5
