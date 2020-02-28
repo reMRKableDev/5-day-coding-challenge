@@ -45,7 +45,7 @@ Lesson(s) Learned:
 3. Cool floating effects can be created if an image is placed in the forefront of two sections that share the height of 100vh.
 
 ## Day 4
-Status: 80% Finished
+Status: Finished
 
 Link:
 
