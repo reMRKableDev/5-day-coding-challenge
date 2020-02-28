@@ -45,11 +45,18 @@ Lesson Learned:
 3. Cool floating effects can be created if an image is placed in the forefront of two sections that share the height of 100vh.
 
 ## Day 4
-Status:
+Status: 80% Finished
 
 Link:
 
+1. Live Site: https://remrkabledev.github.io/Technical-Documentation-5DCC/
+2. Code Base: https://github.com/reMRKableDev/Technical-Documentation-5DCC
+
 Lesson Learned: 
+
+1. The <pre> tag can be used when displaying text with unusual formatting, or some sort of computer code.
+2. The <code> tag is a phrase tag. It defines a piece of computer code.
+3. With translate3d(), you can define a translation on the X, Y and Z axes, all in one function.
 
 ## Day 5
 Status:
