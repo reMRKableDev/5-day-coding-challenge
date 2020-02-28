@@ -8,28 +8,30 @@ Link:[Github Repo](https://github.com/LloydC/muhammad-ali-tribute)
 Lesson Learned: 
 
 ## Day 2
-Status:
+Status: Ongoing
 
-Link:
+Link: [Github Repo](https://github.com/LloydC/survey-form-5dcc)
 
 Lesson Learned: 
 
 ## Day 3
-Status:
+Status: Ongoing
 
-Link:
+Link: [Github Repo](https://github.com/LloydC/product-landing-page-5dcc)
 
 Lesson Learned: 
 ## Day 4
-Status:
+Status: Ongoing
 
-Link:
+Link: [Github Repo](https://github.com/LloydC/tech-documentation-page-5dcc)
 
 Lesson Learned: 
 
 ## Day 5
-Status:
+Status: Ongoing
 
-Link:
+Link: [Github Repo](https://github.com/LloydC/personal-portfolio-page-5dcc)
 
 Lesson Learned: 
+* Typeform 
+* Animista 
