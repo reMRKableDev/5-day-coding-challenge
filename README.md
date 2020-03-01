@@ -1,6 +1,6 @@
 # 5 Day Coding Challenge
 
-![5day-challenge](challenge.png)
+![5day-challenge](challenge.PNG)
 
 Challenges inspired by this [Article](https://medium.com/@avicndugu/projects-to-practice-html-css-skills-for-beginners-8b9ed67a7dd1)
 
